@@ -102,5 +102,5 @@ Durante a execução da estratégia, os seguintes defeitos foram identificados e
 
 Em conformidade com as diretrizes do desafio, declaro o uso ético de Inteligência Artificial (ChatGPT/Gemini) durante este processo:
 
-- **Finalidade:** Setup do boilerplate inicial (Spring Boot MVC e Entidades) e consulta de sintaxe.
+- **Finalidade:** Setup do boilerplate inicial (Spring Boot MVC e Entidades), consulta de sintaxe e ajuda na criação do README.
 - **Validação:** A IA funcionou estritamente como copiloto. A concepção da Estratégia de Testes, a Análise de Risco, a engenharia dos 14 testes de API (`MockMvc`), a arquitetura de tratamento de exceções, a implementação das rotas e a documentação técnica dos Bugs foram elaboradas, validadas e integradas inteiramente por mim, demonstrando minha visão crítica e prática em Qualidade de Software.
